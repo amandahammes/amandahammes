@@ -10,5 +10,5 @@
 - 😄 Pronomes: ela/dela.
 
 
-https://billetto.imgix.net/remote_images/16981/original/fc5ab539-1c1c-44ae-8971-f17936eb6d14.gif?s=4d4fdd406c7899be572e9a48ab3fa50a
+!(https://billetto.imgix.net/remote_images/16981/original/fc5ab539-1c1c-44ae-8971-f17936eb6d14.gif?s=4d4fdd406c7899be572e9a48ab3fa50a)
 
