@@ -1,11 +1,13 @@
 ### Olá! Me chamo Amanda!
-### Seja bem vinde ao meu perfil no GitHub...
+### Seja bem vinde ao meu perfil no GitHub:
+
+<br>
 
 
 <!--
 **amandahammes/amandahammes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 Bióloga, especializada em Terapias Chinesas, em transição de carreira.
+- 🔭 Sou bióloga, especializada em Terapias Chinesas que está em transição de carreira.
 
 - 🌱 Estudando desenvolvimento web com foco em backend. Com muita vontade de aprender mais sobre Python.
 
