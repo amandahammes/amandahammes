@@ -1,6 +1,7 @@
 ### Olá! Me chamo Amanda!
 ### Seja bem vinde ao meu perfil no GitHub...
 
+
 <!--
 **amandahammes/amandahammes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
