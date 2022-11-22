@@ -9,7 +9,7 @@
 
 - 🔭 Estagiária da DB Server.
 
-- 🌱 Estudando desenvolvimento web com foco em backend: conhecimento básico em Node.js e iniciando estudos em Java.
+- 🌱 Estudando desenvolvimento web: conhecimento básico em Node.js, Java, Typescript e Angular. Aprendendo sobre QA.
 
 - 📫 [Para entrar em contato comigo, acesse esse link e vá ao meu perfil do LinkedIn.](https://www.linkedin.com/in/amanda-hammes/)
 
