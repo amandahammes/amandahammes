@@ -9,7 +9,7 @@
 
 - 🔭 Estagiária da DB Server.
 
-- 🌱 Estudando desenvolvimento web: conhecimento básico em Node.js, Java, Typescript e Angular. Aprendendo sobre QA.
+- 🌱 Estudando desenvolvimento web: conhecimento básico em Node.js, Java, Typescript, Angular e Cypress.
 
 - 📫 [Para entrar em contato comigo, acesse esse link e vá ao meu perfil do LinkedIn.](https://www.linkedin.com/in/amanda-hammes/)
 
