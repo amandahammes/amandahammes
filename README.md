@@ -7,7 +7,7 @@
 <!--
 **amandahammes/amandahammes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 Estagiária da DB Server.
+- 🔭 Analista de Testes/QA da DB Server.
 
 - 🌱 Aplicando e estudando Automação de Testes: conhecimento básico em Java/Selenium e Cypress.
 
