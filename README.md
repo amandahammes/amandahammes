@@ -9,7 +9,7 @@
 
 - 🔭 Analista de Testes/QA da DB Server.
 
-- 🌱 Aplicando e estudando Automação de Testes: conhecimento básico em Java/Selenium e Cypress.
+- 🌱 Aplicando e estudando Automação de Testes: conhecimentos em Java/Selenium e Cypress.
 
 - 📫 [Para entrar em contato comigo, acesse esse link e vá ao meu perfil do LinkedIn.](https://www.linkedin.com/in/amanda-hammes/)
 
