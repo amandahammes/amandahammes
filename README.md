@@ -1,7 +1,6 @@
 ### Olá! Me chamo Amanda!
 ### Seja bem vinde ao meu perfil no GitHub:
 <br>
-<br>
 
 - 🔭 Analista de Testes/QA da DB Server.
 
