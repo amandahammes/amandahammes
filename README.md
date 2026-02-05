@@ -4,10 +4,9 @@
 
 I am a QA Analyst with solid experience in high-complexity systems within the retail and logistics sectors. I specialize in ensuring software quality through automated strategies and robust testing processes.
 
-- 🔭 Currently working at **DB Server** as a **QA Analyst**, allocated to **Lojas Renner** (one of Brazil's largest retailers).
+- 🔭 Currently working at **DB Server** as a **QA Analyst**.
 - 🚀 Expert in **Cypress** and **Selenium/Java** for end-to-end automation.
 - 🛠️ Skilled in **API Testing** (RestAssured/Postman) and **Database Validation** (Oracle/SQL Server).
-- 🌍 Goal: Professional experiences in Hispanic-speaking countries and Europe.
 
 ---
 
