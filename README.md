@@ -1,6 +1,6 @@
 # Hi there, I'm Amanda Hammes! 👋
 
-### QA Analyst | Test Automation Analist
+### QA Analyst | Test Automation Analyst
 
 I am a QA Analyst with solid experience in high-complexity systems within the retail and logistics sectors. I specialize in ensuring software quality through automated strategies and robust testing processes.
 
